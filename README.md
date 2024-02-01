@@ -1,1 +1,2 @@
-# Homework-07
+Homework #7:
+Star Wars CSS + Cricket on Sundays
